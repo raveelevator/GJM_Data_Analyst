@@ -66,6 +66,9 @@ h7 {
   flex-wrap: wrap;
   padding: 0 4px;
 }
+h3 {
+  border: 5px solid rgb(14, 11, 11);
+}
 /* Create two equal columns that sits next to each other */
 .column {
   flex: 50%;
@@ -83,12 +86,15 @@ element.style {
   font: inherit;
   vertical-align: initial;
 }
+#borderimg {
+  border-image: url(border.png) 30 round;
+}
 </style>  
 
 </head> 
 <body>
 	<div class="container">
-      <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+      <nav class="navbar navbar-expand-lg navbar-dark bg-secondary">
           <a class="navbar-brand" href="index.html">George McGuire</a>
           <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
@@ -122,61 +128,63 @@ element.style {
             </ul>
           </div>
 		</nav>
+	</div>
  
-    <div class="container">
-	<section class="home-banner-area">
-	  <div class="container-fluid">    
-       <p><img src="images/GJM_PIC_2020.jpg" align="right" class="designation mb-50 wow fadeInUp" data-wow-duration=".5s" data-wow-delay=".6s" alt="GJM" style="width: 325px; height: 450px; margin-left: 12px; margin-right: 12px; margin-top: 50px;" data-atf="1"></p>
-	  </div>		
-	       <div class="row fullscreen d-flex align-items-center">
-				<div class="banner-content col-lg-6 col-md-12 justify-content-center ">
-					<!-- <div class="me wow fadeInDown" data-wow-duration="1s" data-wow-delay="1.2s">It's me</div> -->
-					<h4 class="designation mb-50 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".2s"><strong>George McGuire's Profile Page.</h4>
-					<div class="designation mb-50 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".2s">
-						<!-- Data Analyst GJM -->
-						<p><span class="designer">- Data Analyst, Operations Processor, and Web Developer</span></p>
-						<p><span class="designer">- Check out the Languages I use in the Programing Languages Tab</span></p>
+		<div class="container">
+			<div class="jumbotron bg-dark">
+				<div class="container" id="borderimg">
+				 <h2><img src="images/GJM_PIC_2020.jpg" align="right" class="designation mb-50 wow fadeInUp" data-wow-duration=".8s" data-wow-delay=".8s" alt="GJM" style="width: 325px; height: 450px; margin-left: 12px; margin-right: 12px; margin-top: 50px;" data-atf="1"></h2>
+				 <h2 class="designation mb-50 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".2s"><strong>George McGuire's Profile Page.</h2>
+				 <a><h2><span class="designation mb-50 wow fadeInUp" data-wow-duration="1s" data-wow-delay="1s">- Data Analyst, Operations Processor, and Web Developer</span></h2></a>
+				 <a><h2><span class="designation mb-50 wow fadeInUp" data-wow-duration="1s" data-wow-delay="1s">- Check out my Programing Languages Tab</span></h2></a>
+				</div>
+				<br>
+				<br>
+				<br>
+				<div class="row fullscreen d-flex align-items-left">
+					<div class="banner-content col-lg-6 col-md-12">
+						<!-- <div class="me wow fadeInDown" data-wow-duration="1s" data-wow-delay="1.2s">It's me</div> -->
+							<a href = "mailto: georgejmcguire@yahoo.com" class="primary-btn" target="blank" data-text="Email Me: Click Here">
+							<span>georgejmcguire@yahoo.com</span>
+							</a>
+							<a href="https://docs.google.com/document/d/1lB_Ma-yPHADoXj6Bp5UI_CVLuQgoZoQ5IAsiaO4DuYQ/edit?usp=sharing" target="blank" class="primary-btn" data-text="Resume Link">
+							<span>R</span>
+							<span>e</span>
+							<span>s</span>
+							<span>u</span>
+							<span>m</span>
+							<span> </span>
+							<span>L</span>
+							<span>i</span>
+							<span>n</span>
+							<span>k</span>
+							</a>
+							<a href="https://www.linkedin.com/in/george-mcguire-5345a2183/" target="blank" class="primary-btn" data-text="LinkedIn">
+							<span>L</span>
+							<span>i</span>
+							<span>n</span>
+							<span>k</span>
+							<span>e</span>
+							<span>d</span>
+							<span>I</span>
+							<span>n</span>
+							</a>
+							<a href="https://github.com/RaveElevator" target="blank" class="primary-btn" data-text="GitHub">
+							<span>G</span>
+							<span>i</span>
+							<span>t</span>
+							<span>H</span>
+							<span>u</span>
+							<span>b</span>
+							</a>
+						</a>
 					</div>
-					    <a href = "mailto: georgejmcguire@yahoo.com" class="primary-btn" target="blank" data-text="Email Me: Click Here">
-						<span>georgejmcguire@yahoo.com</span>
-                        </a>
-					    <a href="https://docs.google.com/document/d/1lB_Ma-yPHADoXj6Bp5UI_CVLuQgoZoQ5IAsiaO4DuYQ/edit?usp=sharing" target="blank" class="primary-btn" data-text="Resume Link">
-						<span>R</span>
-						<span>e</span>
-						<span>s</span>
-						<span>u</span>
-						<span>m</span>
-						<span> </span>
-						<span>L</span>
-						<span>i</span>
-						<span>n</span>
-						<span>k</span>
-					    </a>
-					    <a href="https://www.linkedin.com/in/george-mcguire-5345a2183/" target="blank" class="primary-btn" data-text="LinkedIn">
-						<span>L</span>
-						<span>i</span>
-						<span>n</span>
-						<span>k</span>
-						<span>e</span>
-                        <span>d</span>
-                        <span>I</span>
-                        <span>n</span>
-                        </a>
-                        <a href="https://github.com/RaveElevator" target="blank" class="primary-btn" data-text="GitHub">
-						<span>G</span>
-						<span>i</span>
-						<span>t</span>
-						<span>H</span>
-						<span>u</span>
-                        <span>b</span>
-					    </a>
-				    </a>
 				</div>
 			</div>
-		</div>
-	</section>
-	</div>
-<br>
+		</section>
+    </div>
+</div>
+
 <hr>
 	<!-- Jobs section begining GJM -->
 	<section class="job-area section-gap-top section-gap-bottom-90">
@@ -337,7 +345,7 @@ element.style {
   </div>
   <br>
   <div class="container">
-  <P><h2><center>I am proficient with these coding languages</center></h2></P>
+  <P><h3><center>I am proficient with these coding languages</center></h3></P>
   <table style="border:1px solid black;margin-left:auto;margin-right:auto;">
     <thead>
         <tr>
@@ -400,30 +408,10 @@ element.style {
             <td><abbr title="Yes">✓</abbr></td>
             <td></td>
 		</tr>
-		<tr>
-			<td>				 
-				<a href="https://github.com/RaveElevator" target="blank" class="primary-btn" data-text="GitHub Repository">
-				<span>G</span>
-				<span>i</span>
-				<span>t</span>
-				<span>H</span>
-				<span>u</span>
-				<span>b</span>
-				<span> </span>
-				<span>R</span>
-				<span>e</span>
-				<span>p</span>
-				<span>o</span>
-				<span> </span>
-				<span>L</span>
-				<span>i</span>
-				<span>n</span>
-				<span>k</span>
-			</a>
-		    </td>
-		</tr>
 	</tbody>
 </table>
+</div>
+
 </div>
 <br>
 </body>
@@ -448,6 +436,28 @@ element.style {
 							<a href = "mailto: georgejmcguire@yahoo.com" target="blank" class="primary-btn" data-text="Email Me">
 							<span>georgejmcguire@yahoo.com</span>
 							</a>
+							<tr>
+								<td>				 
+									<a href="https://github.com/RaveElevator" target="blank" class="primary-btn" data-text="GitHub Repository">
+									<span>G</span>
+									<span>i</span>
+									<span>t</span>
+									<span>H</span>
+									<span>u</span>
+									<span>b</span>
+									<span> </span>
+									<span>R</span>
+									<span>e</span>
+									<span>p</span>
+									<span>o</span>
+									<span> </span>
+									<span>L</span>
+									<span>i</span>
+									<span>n</span>
+									<span>k</span>
+									</a>
+								</td>
+							</tr>
 						</div>
 						</div>
 					</div>
