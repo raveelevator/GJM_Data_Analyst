@@ -20,4 +20,4 @@ Updates made to landing page.
 3) google docs resume works
 4) table updated
 5) nav bar updated
-6) #
+6) delay time CSS on images
