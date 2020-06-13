@@ -2,12 +2,14 @@
 GJM_Landing_Page
 
 This is my landing page with links to Github, LinkedIn, Email, and Google doc Resume. 
-Professional with banking experience at Wells Fargo Auto and a degree in Applied Economics
-from East Carolina University (ECU).
-I have graduated from the UNC at Chapel Hill Data Analytics Bootcamp 2020.
-Feel free to contact me with any questions. 
+Professional Data Analyst with banking experience at Wells Fargo Auto and a degree in 
+Applied Economics from East Carolina Universit (ECU).
+I have graduated from the UNC at Chapel Hill Data Analytics Bootcamp 2020. Links include my
+three projects RepairShade, (2FA), and MetalSpots. More projects to come!
 
-Email: georgejmcguire@yahoo.com 
+Feel free to contact me with any questions.
+
+Email: georgejmcguire@gmail.com 
 Phone: ###-###-####
 GitHub: https://raveelevator.github.io/data_security_presentation/index.html
 LinkedIn: https://www.linkedin.com/in/george-mcguire-5345a2183/
