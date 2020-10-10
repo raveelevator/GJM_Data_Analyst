@@ -17,7 +17,7 @@ LinkedIn: https://www.linkedin.com/in/george-mcguire-5345a2183/
 Google_Docs: https://docs.google.com/document/d/1lB_Ma-yPHADoXj6Bp5UI_CVLuQgoZoQ5IAsiaO4DuYQ/edit?usp=sharing
 Bitcoin Public Address: 13CLByYkWXEwtT4azhKsq8Z9JdkZuZsBwY
 
-Updates made to landing page.
+Updates made to landing page
 1) class info
 2) links work
 3) google docs resume works
