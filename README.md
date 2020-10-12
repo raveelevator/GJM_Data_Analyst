@@ -2,11 +2,11 @@
 GJM_Landing_Page
 https://raveelevator.github.io/GJM_Data_Analyst/index.html
 
-This is my landing page with links to Github, LinkedIn, Email, and Google doc Resume. 
-Professional Data Analyst with banking experience at Wells Fargo Auto and a degree in 
-Applied Economics from East Carolina Universit (ECU).
-I have graduated from the UNC at Chapel Hill Data Analytics Bootcamp 2020. Links include my
-three projects RepairShade, (2FA), and MetalSpots. More projects to come!
+This is my landing page with links to Github, LinkedIn, Email, Google doc Resume and Bitcoin Public Address. 
+I am a data Analyst with operations processing experience at Wells Fargo.
+I have a degree in Applied Economics from East Carolina University (ECU) Greenville, NC.
+I graduated from the UNC at Chapel Hill and obtained a certificate in Data Analytics 2020. 
+Links on my page include my four projects RepairShade, (2FA), MetalSpots, and Personal Banking. More projects to come!
 
 Feel free to contact me with any questions.
 
