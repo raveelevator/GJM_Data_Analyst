@@ -3,9 +3,9 @@ GJM_Landing_Page
 https://raveelevator.github.io/GJM_Data_Analyst/index.html
 
 This is my landing page with links to Github, LinkedIn, Email, Google doc Resume and Bitcoin Public Address. 
-I am a data Analyst with operations processing experience at Wells Fargo.
+I am a data Analyst with Financial Relationship Spcialist at Regions Bank.
 I have a degree in Applied Economics from East Carolina University (ECU) Greenville, NC.
-I graduated from the UNC at Chapel Hill and obtained a certificate in Data Analytics 2020. 
+I attended UNC at Chapel Hill and obtained a certificate in Data Analytics 2020. 
 Links on my page include my four projects RepairShade, (2FA), MetalSpots, and Personal Asset Project "YourBit"
 
 More projects to come!
@@ -29,3 +29,9 @@ Updates made to landing page 2020
 7) Bitcoin Public Address QR code
 8) BitRef Link to check Bitcoin Balance.
 9) YourBit Persoanl Asset Project
+
+Updates made in 2021
+1) updated resume link
+
+Updates in 2022
+1) updated work history
